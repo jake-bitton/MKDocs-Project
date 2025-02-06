@@ -1,0 +1,4 @@
+site_name: Personal Site
+site_url: https://www.jake-bitton.github.io
+theme:
+  name: material
