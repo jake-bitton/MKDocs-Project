@@ -2,3 +2,6 @@ site_name: Personal Site
 site_url: https://www.jake-bitton.github.io
 theme:
   name: material
+  nav:
+    -Home: index.md
+    -Projects: projects.md
